@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aiden
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning Code
-- 💞️ I’m looking to collaborate on Roblox code
+- 💞️ I’m looking to make a good rpg
 - 📫 How to reach me: phone number: 424 877 6837
 - 😄 Pronouns: He/she
 - ⚡ Fun fact: Fun is Fun, is think
