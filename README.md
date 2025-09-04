@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Code
 - 💞️ I’m looking to make a good rpg
 - 📫 How to reach me: phone number: 424 877 6837
-- 😄 Pronouns: He/she
-- ⚡ Fun fact: Fun is Fun, is think
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play waterpolo
 
 <!---
 AquaGaming50/AquaGaming50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
